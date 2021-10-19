@@ -31,7 +31,7 @@
 - [ ] to do list
 - [x] done
 ---
-# javascrip
+# Javascrip
 ```javascrip=
 <!DOCTYPE html>
 <html>
@@ -45,4 +45,11 @@
 
 </body>
 </html>
+```
+---
+# Python
+```python
+# This program prints Hello, world!
+
+print('Hello, world!')
 ```
