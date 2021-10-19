@@ -31,7 +31,7 @@
 - [ ] to do list
 - [x] done
 ---
-javascrip
+# javascrip
 ```javascrip=
 <!DOCTYPE html>
 <html>
